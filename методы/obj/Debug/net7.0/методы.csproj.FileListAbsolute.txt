@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\лек3.3\методы\bin\Debug\net7.0\методы.exe
+C:\Users\Пользователь\Desktop\лек3.3\методы\bin\Debug\net7.0\методы.deps.json
+C:\Users\Пользователь\Desktop\лек3.3\методы\bin\Debug\net7.0\методы.runtimeconfig.json
+C:\Users\Пользователь\Desktop\лек3.3\методы\bin\Debug\net7.0\методы.dll
+C:\Users\Пользователь\Desktop\лек3.3\методы\bin\Debug\net7.0\методы.pdb
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\методы.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\методы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\методы.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\методы.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\методы.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\методы.dll
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\refint\методы.dll
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\методы.pdb
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\методы.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\лек3.3\методы\obj\Debug\net7.0\ref\методы.dll
